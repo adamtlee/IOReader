@@ -1,0 +1,13 @@
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.exe
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.deps.json
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.runtimeconfig.json
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.runtimeconfig.dev.json
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.dll
+C:\Repository\IOReader\IOReader\bin\Debug\netcoreapp3.1\IOReader.pdb
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.csprojAssemblyReference.cache
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.AssemblyInfoInputs.cache
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.AssemblyInfo.cs
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.csproj.CoreCompileInputs.cache
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.dll
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.pdb
+C:\Repository\IOReader\IOReader\obj\Debug\netcoreapp3.1\IOReader.genruntimeconfig.cache
