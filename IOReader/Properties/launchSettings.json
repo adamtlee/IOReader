@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IOReader": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir c:\\Repository\\IOReader\\TestData\\Input csv"
+    }
+  }
+}
